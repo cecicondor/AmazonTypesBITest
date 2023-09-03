@@ -1,0 +1,12 @@
+explain:
+
+I used a dataset from Kaggle (by: JOAKIM ARVIDSSON) whose purpose seems to show us the most popular books from Amazon.com, off course my goal
+is lear more data in a Power BI vision, tryin not to make something visually good, but something that makes the analyst understand wich action 
+is the best in this scenario.
+
+1.1 first of all i separated the vision into more contemplated and less contemplated books
+1.2 then I did a simple formula IF at DAX ambience just to separate "More than 12k reviews" from "less tha 12k reviews" -> see below:
+
+-- Review2 = IF(Amazon_popular_books_dataset[reviews_count]>12000,"More Than 12k", "Less than 12k")
+
+
