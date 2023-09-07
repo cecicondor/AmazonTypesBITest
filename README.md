@@ -11,3 +11,7 @@ based on a database from Kaggle i created a vision of the most popular books on 
 
 
 ![image](https://github.com/cecicondor/AmazonTypesBITest/assets/101957373/bcfa860b-0256-409c-907d-deee75fce353)
+
+Sure, i just forgot that i made a mobile version manipulated inside Power B.i Desktop, here's it for you to see
+
+![image](https://github.com/cecicondor/AmazonTypesBITest/assets/101957373/bf65c5fd-5341-46d9-9a44-d7b50d025e77)
